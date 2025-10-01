@@ -8,8 +8,10 @@ https://github.com/facebookresearch/detectron2
 # Step by step 
 cuda11.3+cudnn8.2.1+vs build tools 2019
 # Create a conda environment
-`conda create -n detectron2 python=3.9 -y`
-`conda activate detectron2`
+```bash
+conda create -n detectron2 python=3.9 -y
+conda activate detectron2
+```bash
 # Install PyTorch with CUDA 11.3 Support
 `pip install torch==1.10.1+cu113 torchvision==0.11.2+cu113 torchaudio==0.10.1 -f https://download.pytorch.org/whl/torch_stable.html`
 # Get Detectron2 v0.6
