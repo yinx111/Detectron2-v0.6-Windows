@@ -26,6 +26,7 @@ Insert this line of code after line 79
 after modification
 
 <img width="439" height="246" alt="image" src="https://github.com/user-attachments/assets/5c64f821-c9e3-4cbc-a98a-42decc8eec6e" />
+
 # Install detectron2
 Execute in the working directory
 ```bash
