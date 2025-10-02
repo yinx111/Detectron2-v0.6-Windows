@@ -5,7 +5,6 @@ Install the latest version of Detecteron2 on Windows with the least steps
 Detectron2 is a PyTorch-based computer vision library developed by Facebook AI Research.
 It provides state-of-the-art models for object detection, instance/semantic/panoptic segmentation, and keypoint detection.
 https://github.com/facebookresearch/detectron2
-# Step by step 
 # Needs
 cuda11.3 + cudnn8.2.1 + vs build tools 2019
 # Create a conda environment
