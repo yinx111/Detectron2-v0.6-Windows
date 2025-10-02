@@ -33,4 +33,17 @@ Execute under your working directory
 ```bash
 pip install -e.
 ```
+# Install fixed versions of numpy, Pillow and opencv
+```bash
+pip install numpy==1.26.4
+pip install pillow==9.5.0
+pip install opencv-python==4.9.0.80
+```
+# Test
+```bash
+python test.py --image demo.jpg
+```
+The detection result
+
+![test_result](https://github.com/user-attachments/assets/d18f1d2e-6fb0-4471-a595-70688b7c57a1)
 
